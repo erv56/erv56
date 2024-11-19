@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a PhD Student at MIT Sloan. I primarily do qualitative and archival research but I dabble in quantitative projects, hence this profile.
 
 <!--
 **erv56/erv56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
